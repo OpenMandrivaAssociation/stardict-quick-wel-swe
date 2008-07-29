@@ -1,5 +1,5 @@
 %define	version	2.4.2
-%define release	%mkrel 3
+%define release	%mkrel 5
 %define dict_format_version	2.4.2
 
 Summary:	Welsh -> Swedish *Quick dictionary for StarDict 2
